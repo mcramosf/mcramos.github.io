@@ -1,0 +1,13 @@
+name: "Maria C. Ramos"
+output_dir: "."
+navbar:
+  title: "Maria C. Ramos"
+  left:
+    - text: "Writing"
+      href: index.html
+    - text: "Speaking"
+      href: research.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
