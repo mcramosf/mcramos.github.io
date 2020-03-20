@@ -1,52 +1,95 @@
 ---
-title: ""
+title: "Teaching"
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
 ---
 
-Intro paragraph general approach
+# Courses 
 
-My goal in any class is to promote critical thinking, participation, and collaborative problem solving. The courses I lead will ask you to thoughtfully examine and question the material rather than mechanically reproduce textbook knowledge. I am committed to presenting diverse viewpoints, both academic and social. That can help encourage exploration, tolerance, and curiosity, as well as promote engaged citizenship.
+The courses I lead focus on promoting students' learning in a welcoming environment. I carefully design my courses according to principles of effective learning through in-class activities and a strong writing component. 
 
-##Teaching Experience
+##In-class activities 
+Every class session includes in a number of hands-on individual and group activities that aim to develop students' skills in an engaging way. Some activities include: 
+
+*Answering to anonimous online polls to assess comprehension of basic concepts
+*Applying knowledge to real case scenarios
+*Evaluating claims in journal articles and other media
+*Utilizing available tools for a given purpose (e.g., use of library sources for finding relevant literature, using reference managers to produce a reference list)
+*Developing original tools for a given purpose (e.g., creating interview guides, survey items)
+
+##Learning through writing
+
+The courses I lead invariably incorporate writing.Courses combine short assignments and a bigger project (e.g., a research proposal or research paper). Each of these strategies serves a different purpose in students' learning process. 
+
+###Short assignments 
+
+Students engage in writing early on and throughout all the course. Because writing can be a daunting task for many students, writing assigments are carefully designed to ease the process and reduce anxiety. For example, some class sessions include short, ungraded, free-writing activities during which students write anything that comes to their mind in response to one or more prompts regarding a course topic (e.g., a reading, short-lecture, or a project they are developing). Distinct prompts aim to achieve different learning goals (e.g. identification, analysis, synthesis, application). In addition, students are instructed not to pay attention to grammar or punctuation during the exercise. Free-writing sessions compel students to engage with the material in a stress-free environment. As a result, students make new connections among concepts and increase the number of observations and questions raised in class. At the end of each session, students write a one-minute paper explaining what they have learned during the session and what questions remain unanswered. 
+
+###Longer Projects
+
+Longer writing projects provide the opportunity to reflect more deeply on a topic of each student's choice. 
+Projects include research proposals, research papers, and essays. Project drafts are turned in early and often. This strategy ensures students do not cram at the end of the term. Instead, students think critically about their project continuously throughout the semester. Students share early drafts with their peers and instructor, and receive feedback so that they can improve their drafts and produce high quality pieces.
+
+#Teaching Experience
 
 ####Methods of Social Research
 
-I have been the instructor of record for this course.
+I have been the instructor of record for this course. 
+
+This course prepares students to evaluate and design research projects to answer social science questions. Step by step, we will walk through how to find and read research articles quickly and efficiently, how to assess existing research, how to formulate your own research questions and hypotheses, and how to design research that answers questions that interest you. Each week, we  discuss short readings about core concepts and methods in social science research. Classes include lecture and a wide variety of hands-on, ungraded individual and group activities to help you apply what you learn to real scenarios. By the end of this course, students will be able to formulate their own research question and produce a short research proposal to answer it.
+
+The primary project for this class is a research proposal, divided into four manageable parts (500-750 words each), so students have the time and feedback they need to create a final proposal (2500 words) that they feel confident in. Assessments will include the final proposal, four drafts of different proposal sections (one draft per section), four short memos (250 words), and in-class participation.
+
+Students of any social science discipline who plan to eventually propose research for their thesis or capstone work will find this course especially helpful, but it is also designed to be accessible to anyone who simply wants to learn a little more about social science research and decide what to think of research findings reported in the media or elsewhere. No Textbook Required.
+
+For more information, find the syllabus of this course [here](files/ResearchMethodsSyllabus_final.pdf). 
 
 ####Sociological Inquiry
 
-I guided students into completing a research project over the course of a semester. We had weekly sessions of about an hour. I was in charge of planning and implementing of my sessions. All sessions included a combination of short lectures, tutorials, or discussions about readings followed by hands on activities through which students could apply the knowledge they acquired to their own projects. I complemented these in-class resources with online tutorials students could access at any time [link here], facilitating their learning outside of class.  These online resources and hands-on activities helped students develop the skills needed in today’s online world. Hands on activities included discussions, writing prompts, building surveys using Qualtrics, and data analysis using online sources like [link to BJS, GSS].
+I have been a discussion section instructor for this course. In this course, students complete a research project over the course of a semester. Discussion sections are geared toward connecting primary theories and empirical findings in sociology with students' own research projects. Discussion sections also help students develop the skills involved in all aspects of the research process: finding reliable sources, critically evaluating arguments, collecting, analyzing, and interpreting data, and effectively communicating findings. Weekly one-hour sessions include a combination of short lectures and discussions about readings followed by hands-on activities through which students can apply the knowledge they acquire at the beginning of the session.  
+I complement in-class resources with online tutorials students can access at any time. Sample tutorials include:
 
-While the course lectures (led by the instructor of record) were geared toward surveying primary theories and empirical findings in sociology, while discussion sections focused helping students develop their final research projects and connecting those projects to what was covered in the primary lectures. Thus, discussion sections’ aim was to develop the skills involved in all aspects of the research process: finding reliable sources, critically evaluating arguments, collecting, analyzing, and interpreting data, and effectively communicating findings. By the end of the course, students produced a complete research paper.  
+*Using NetLogo for social simulations [access tutorial](https://www.youtube.com/watch?v=K1Fp0f4RRZU)
+*Using Qualtrics for Surveys and survey experiments [access tutorial](https://youtu.be/2oV3rI3AZTM)
 
-####Methodological Workshops
+####Social Network Analysis Workshops
 
-*Intro to R for Social Network Analysis 
+I teach workshops on using R for social network analysis as part of Duke's annual [Social Networks and Health Workshop](https://dnac.ssri.duke.edu/social-networks-health-scholars-training-program-2020.php). R has unique advantages as open source software that allows for implementing sophisticated techniques while keeping  research reproducible. Previous workshops I have taught include:
 
-Workshop materials are available [here]()
+* Intro to R for Social Network Analysis 
 
-*Data Cleaning for Social Network Analysis using R
 
-Workshop materials are available [here]()
+* Data Cleaning for Social Network Analysis using R
 
+
++ [Full workshop](https://www.youtube.com/watch?list=PLwrOoPWTJPLQVpcVNtuXF-c3CZG9TxyXo&time_continue=2&v=P0KXKQmg5So&feature=emb_logo)
+
+More information about the Social Networks & Health Workshop 
 
 *Intro to Qualtrics
-Use of Qualtrics software to implement surveys.The workshop includes an introduction to the software, tailoring 
+Use of Qualtrics software to implement surveys.Longer versions of the workshops 
 
 *Using Qualtrics for Experimental Research
 Use of Qualtrics software to conduct survey vignette experiments. 
 
 ####Other Teching Experience
+
 *Guest Lecturer - Experiments in the Social Sciences
-*Teaching Assistant - Social Determinants of U.S. Health Disparities
-*Teaching Assistant - Sexuality and Society
-*Teaching Assistant - Theory and Society
-*Teaching Assistant - Punishment and Society
+
+During my time at Duke, I have served as a teaching assistant in a number of courses:
+
+*Social Determinants of U.S. Health Disparities
+*Sexuality and Society
+*Theory and Society
+*Punishment and Society
 
 ##Continuous Development
 
-Beyond my role in this course, I’ve taken steps to develop as an instructor supporting active learning and the use of writing methodology to learn.  Certificate in College Teaching program. In addition, Teaching Writing in the Disciplines program. I look forward to applying the knowledge, skills, and tools I have acquired through these experiences in my future teaching activities. 
+I continue to develop as an instructor supporting active learning and the use of writing methodology to learn.  Certificate in College Teaching program. In addition, Teaching Writing in the Disciplines program. I look forward to applying the knowledge, skills, and tools I have acquired through these experiences in my future teaching activities. 
 
-##Courses I am Able to Teach
+##Possible courses I can teach
 
 *Social Psychology
 *Social Networks
