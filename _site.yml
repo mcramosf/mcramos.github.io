@@ -5,7 +5,9 @@ navbar:
   left:
     - text: "Bio"
       href: index.html
-    - text: "Speaking"
+    - text: "Research"
+      href: research.html
+    - text: "Teaching"
       href: research.html
 output:
   html_document:
