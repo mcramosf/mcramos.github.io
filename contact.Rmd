@@ -1,0 +1,15 @@
+---
+title: ''
+output: html_document
+---
+
+>**Contact**
+
+*I'd love to hear from you. Feel free to reach out at:* 
+
+mcr34@duke.edu
+
+Office 143 Soc/Psych Building  
+Department of Sociology, Duke University  
+417 Chapel Drive  
+Durham, NC 27708-0088  
