@@ -2,4 +2,56 @@
 title: ""
 ---
 
-My teaching
+Intro paragraph general approach
+
+My goal in any class is to promote critical thinking, participation, and collaborative problem solving. The courses I lead will ask you to thoughtfully examine and question the material rather than mechanically reproduce textbook knowledge. I am committed to presenting diverse viewpoints, both academic and social. That can help encourage exploration, tolerance, and curiosity, as well as promote engaged citizenship.
+
+##Teaching Experience
+
+####Methods of Social Research
+
+I have been the instructor of record for this course.
+
+####Sociological Inquiry
+
+I guided students into completing a research project over the course of a semester. We had weekly sessions of about an hour. I was in charge of planning and implementing of my sessions. All sessions included a combination of short lectures, tutorials, or discussions about readings followed by hands on activities through which students could apply the knowledge they acquired to their own projects. I complemented these in-class resources with online tutorials students could access at any time [link here], facilitating their learning outside of class.  These online resources and hands-on activities helped students develop the skills needed in today’s online world. Hands on activities included discussions, writing prompts, building surveys using Qualtrics, and data analysis using online sources like [link to BJS, GSS].
+
+While the course lectures (led by the instructor of record) were geared toward surveying primary theories and empirical findings in sociology, while discussion sections focused helping students develop their final research projects and connecting those projects to what was covered in the primary lectures. Thus, discussion sections’ aim was to develop the skills involved in all aspects of the research process: finding reliable sources, critically evaluating arguments, collecting, analyzing, and interpreting data, and effectively communicating findings. By the end of the course, students produced a complete research paper.  
+
+####Methodological Workshops
+
+*Intro to R for Social Network Analysis 
+
+Workshop materials are available [here]()
+
+*Data Cleaning for Social Network Analysis using R
+
+Workshop materials are available [here]()
+
+
+*Intro to Qualtrics
+Use of Qualtrics software to implement surveys.The workshop includes an introduction to the software, tailoring 
+
+*Using Qualtrics for Experimental Research
+Use of Qualtrics software to conduct survey vignette experiments. 
+
+####Other Teching Experience
+*Guest Lecturer - Experiments in the Social Sciences
+*Teaching Assistant - Social Determinants of U.S. Health Disparities
+*Teaching Assistant - Sexuality and Society
+*Teaching Assistant - Theory and Society
+*Teaching Assistant - Punishment and Society
+
+##Continuous Development
+
+Beyond my role in this course, I’ve taken steps to develop as an instructor supporting active learning and the use of writing methodology to learn.  Certificate in College Teaching program. In addition, Teaching Writing in the Disciplines program. I look forward to applying the knowledge, skills, and tools I have acquired through these experiences in my future teaching activities. 
+
+##Courses I am Able to Teach
+
+*Social Psychology
+*Social Networks
+*Self and Society
+*Methods of Social Research
+*Experimental Design for the Social Sciences
+*Quantitative Methods
+*Introduction to Sociology
