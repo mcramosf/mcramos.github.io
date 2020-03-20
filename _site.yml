@@ -3,7 +3,7 @@ output_dir: "."
 navbar:
   title: "Maria C. Ramos"
   left:
-    - text: "Writing"
+    - text: "Bio"
       href: index.html
     - text: "Speaking"
       href: research.html
