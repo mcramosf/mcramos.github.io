@@ -17,6 +17,8 @@ navbar:
           href: workshops.html
     - text: "Contact"
       href: contact.html
+    - text: "CV"
+      href: CV.html
 output:
   html_document:
     theme: paper
