@@ -1,0 +1,15 @@
+---
+title: ""
+---
+> **Teaching Experience**
+
+#### Social Network Analysis Workshops
+
+I teach workshops on using R for social network analysis as part of [Duke's Social Networks and Health Workshops](https://dnac.ssri.duke.edu/social-networks-health-scholars-training-program-2020.php). R has unique advantages as open source software that allows implementing sophisticated analysis techniques in a reproducible way. Previous workshops I have taught include:
+
+* Intro to R for Social Network Analysis 
+    * [Workshop materials](files/IntrotoR_ExecutedGuide.html)
+
+* Data Cleaning for Social Network Analysis using R.
+    * [Workshop materials](files/Data_Cleaning_SNA_ExecuteGuide.html)
+    * [Full workshop video](https://www.youtube.com/watch?list=PLwrOoPWTJPLQVpcVNtuXF-c3CZG9TxyXo&time_continue=2&v=P0KXKQmg5So&feature=emb_logo)

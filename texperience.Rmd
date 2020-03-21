@@ -1,0 +1,52 @@
+---
+title: ""
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
+---
+
+> **Teaching Experience**
+
+
+#### Courses
+
+##### Methods of Social Research
+
+*Experience as instructor of record*
+
+**Description.-** This course prepares students to evaluate and design research projects to answer social science questions. Step by step, we will walk through how to find and read research articles quickly and efficiently, how to assess existing research, how to formulate your own research questions and hypotheses, and how to design research that answers questions that interest you. Each week, we  discuss short readings about core concepts and methods in social science research. Classes include lecture and a wide variety of hands-on, ungraded individual and group activities to help you apply what you learn to real scenarios. By the end of this course, students will be able to formulate their own research question and produce a short research proposal to answer it.
+
+Students of any social science discipline who plan to eventually propose research for their thesis or capstone work will find this course especially helpful, but it is also designed to be accessible to anyone who simply wants to learn a little more about social science research and decide what to think of research findings reported in the media or elsewhere.
+
+See the [course syllabus](files/ResearchMethodsSyllabus_final.pdf) for more details.
+
+
+##### Sociological Inquiry
+
+*Experience as discussion section instructor*
+
+**Description.-** In this course, students complete a research project over the course of a semester. Discussion sections are geared toward connecting primary theories and empirical findings in sociology with students' own research projects. Discussion sections also help students develop the skills involved in all aspects of the research process: finding reliable sources, critically evaluating arguments, collecting, analyzing, and interpreting data, and effectively communicating findings. Weekly one-hour sessions include a combination of short lectures and discussions about readings followed by hands-on activities through which students can apply the knowledge they acquire at the beginning of the session.  
+
+I complement in-class resources with online tutorials students can access at any time. Sample tutorials include:
+
+* Using NetLogo for social simulations
+    * [Video tutorial](https://www.youtube.com/watch?v=K1Fp0f4RRZU)
+* Using Qualtrics for surveys and survey experiments
+    * [Video tutorial](https://youtu.be/2oV3rI3AZTM)
+
+Additional teaching experience can be found in my [CV](files/CV.pdf)
+
+#### Possible courses I can teach
+
+* Social Psychology
+* Social Networks
+* Self and Society
+* Methods of Social Research
+* Experimental Design for the Social Sciences
+* Quantitative Methods
+* Introduction to Sociology
+
+
+
+

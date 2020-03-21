@@ -8,7 +8,13 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Teaching"
-      href: teaching.html
+      menu:
+        - text: "Approach"
+          href: teaching.html
+        - text: "Courses"
+          href: texperience.html
+        - text: "Workshops"
+          href: workshops.html
     - text: "Contact"
       href: contact.html
 output:
