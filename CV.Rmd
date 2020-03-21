@@ -6,6 +6,6 @@ title: ""
 
 <object data="files/CV.pdf" type="application/pdf" width="880px" height="800px">
 
-If my CV is not displayed, please download the PDF to view it: <a href="/files/CV.pdf">download PDF</a>.</p>
-
 </object>
+
+If my CV is not displayed, please [download the PDF](files/CV.pdf) to view it. 
