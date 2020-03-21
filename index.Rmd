@@ -10,6 +10,5 @@ title: ""
 
 I am a social scientist specialized in social psychology and social networks. My work combines network analysis and computational methods to investigate how people’s multiple identities and beliefs are organized. I have also utilized experimental techniques to study moral judgments associated with restorative actions. 
 
-I am currently a Ph.D. Candidate in the Department of Sociology at Duke University and I am affiliated with Duke Network Analysis Center. 
+I am currently a Ph.D. Candidate in the Department of Sociology at Duke University and I am affiliated with [Duke Network Analysis Center](https://dnac.ssri.duke.edu/). 
 
-My full CV is available [here](files/CV.pdf).
